@@ -9,6 +9,6 @@ Wordlist brasileira para fuzzing em apis.
 
 $ cat <your_wordlist.txt> <repo_wordlist.txt> | sort -u | tee new_wordlist.txt
 
-# just append new words, check if the word exists
+# just append new words, check if the word exists inside the dict before upload to this repo, please.
 
 ```
