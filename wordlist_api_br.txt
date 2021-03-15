@@ -12,6 +12,10 @@ carteiras
 a-vista
 avista
 bloqueado
+saldo
+saldos
+idSaldo
+uuid
 bloqueados
 boleto
 boletos
