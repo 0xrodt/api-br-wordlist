@@ -8,6 +8,8 @@ administrador
 apelido
 ativo
 carteira
+talentos
+talento
 carteiras
 a-vista
 avista
